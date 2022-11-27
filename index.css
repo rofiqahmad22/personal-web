@@ -2,11 +2,47 @@ body {
   background-color: gray;
 }
 
+.nav-profile {
+  list-style: none;
+}
+
+.nav-tools {
+  list-style: none;
+}
+
+.nav-contact {
+  list-style: none;
+}
+
+.nav-project {
+  list-style: none;
+}
+
+.nav-profile a {
+  text-decoration: none;
+  display: flex;
+}
+
+.nav-tools a {
+  text-decoration: none;
+  display: flex;
+}
+
+.nav-contact a {
+  text-decoration: none;
+  display: flex;
+}
+
+.nav-project a {
+  text-decoration: none;
+  display: flex;
+}
+
 .main-title {
   color: white;
 }
 
-.profil {
+.profile {
   color: white;
 }
 
@@ -18,7 +54,7 @@ body {
   color: white;
 }
 
-.coppyright {
+.copyright {
   color: white;
   background-color: black;
   padding: 20px;
