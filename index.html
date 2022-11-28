@@ -5,12 +5,23 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="index.css" />
+    <script
+      src="https://kit.fontawesome.com/7e23189802.js"
+      crossorigin="anonymous"
+    ></script>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;800&display=swap");
+    </style>
     <title>Rofiq Ahmad Mubarok</title>
   </head>
   <body>
     <header>
       <nav class="navigation">
-        <ul>
+        <ul class="menu">
+          <li class="nav-search">
+            <i class="fa-solid fa-magnifying-glass"></i>
+          </li>
+          <li class="nav-github"><i class="fa-brands fa-github"></i></li>
           <li class="nav-profile"><a href="#profile">Profile</a></li>
           <li class="nav-tools"><a href="#tools">Tools</a></li>
           <li class="nav-contact"><a href="#contact">Contact</a></li>
@@ -18,7 +29,10 @@
         </ul>
       </nav>
 
-      <h1 class="main-title">Hello! i'm Rofiq...</h1>
+      <h1 class="main-title">
+        Hello!<br />
+        i'm Rofiq...
+      </h1>
     </header>
 
     <section class="profile">
@@ -29,8 +43,8 @@
         <h4>UI/UX Design</h4>
         <p>
           Hello, my name is Rofiq Ahmad Mubarok, you can call me
-          <b>Rofiq</b> I’m a Frontend Web Developer and UI/UX Designer. let's
-          learn design with me, design is fun.
+          <span class="nama">Rofiq</span> I’m a Frontend Web Developer and UI/UX
+          Designer. let's learn design with me, design is fun.
         </p>
         <img
           src="/img/profile.jpg"
@@ -59,7 +73,9 @@
 
     <section class="contact">
       <div>
-        <h2>Contact me if you need my help!</h2>
+        <h2>
+          Contact me if <span class="text-contact">you need</span> need my help!
+        </h2>
         <ul>
           <li>Instagram</li>
           <li>LinkedIn</li>

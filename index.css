@@ -1,5 +1,32 @@
 body {
   background-color: gray;
+  font-family: "Poppins";
+}
+
+.nama {
+  font-weight: bold;
+  color: #ffbc0d;
+}
+
+.text-contact {
+  font-weight: bold;
+  color: #ffbc0d;
+}
+
+.menu {
+  display: flex;
+  flex-direction: row-reverse;
+  margin-right: 60px;
+  color: white;
+  justify-content: space-between;
+}
+
+.nav-search {
+  list-style: none;
+}
+
+.nav-github {
+  list-style: none;
 }
 
 .nav-profile {
@@ -20,18 +47,22 @@ body {
 
 .nav-profile a {
   text-decoration: none;
+  color: white;
 }
 
 .nav-tools a {
   text-decoration: none;
+  color: white;
 }
 
 .nav-contact a {
   text-decoration: none;
+  color: white;
 }
 
 .nav-project a {
   text-decoration: none;
+  color: white;
 }
 
 .main-title {
