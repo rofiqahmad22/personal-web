@@ -56,12 +56,6 @@ section.profile {
   margin-right: 200px;
 }
 
-.copyright {
-  background-color: black;
-  padding: 20px;
-  text-align: center;
-}
-
 .profile-picture {
   border-radius: 100%;
 }
@@ -70,4 +64,10 @@ section.profile {
   background: hsl(0, 0%, 20%);
   padding: 1rem;
   max-width: 600px;
+}
+
+.copyright {
+  background-color: #393e46;
+  padding: 20px;
+  text-align: center;
 }
