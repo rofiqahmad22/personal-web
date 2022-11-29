@@ -15,7 +15,6 @@ body {
 
 .menu {
   display: flex;
-  flex-direction: row-reverse;
   margin-right: 60px;
   color: white;
   justify-content: space-between;
