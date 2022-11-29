@@ -1,6 +1,16 @@
 body {
   background-color: #333652;
   font-family: "Poppins";
+  color: #fff;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
 }
 
 .nama {
@@ -24,68 +34,7 @@ body {
   margin-right: 200px;
 }
 
-.nav-search {
-  list-style: none;
-}
-
-.nav-github {
-  list-style: none;
-}
-
-.nav-profile {
-  list-style: none;
-}
-
-.nav-tools {
-  list-style: none;
-}
-
-.nav-contact {
-  list-style: none;
-}
-
-.nav-project {
-  list-style: none;
-}
-
-.nav-profile a {
-  text-decoration: none;
-  color: white;
-}
-
-.nav-tools a {
-  text-decoration: none;
-  color: white;
-}
-
-.nav-contact a {
-  text-decoration: none;
-  color: white;
-}
-
-.nav-project a {
-  text-decoration: none;
-  color: white;
-}
-
-.main-title {
-  color: white;
-}
-
-.profile {
-  color: white;
-}
-
-.tools {
-  color: white;
-}
-
-.contact {
-  color: white;
-}
-
 .copyright {
-  color: white;
   background-color: black;
   padding: 20px;
   text-align: center;
