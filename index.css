@@ -1,5 +1,5 @@
 body {
-  background-color: #333652;
+  background-color: #2c4875;
   font-family: "Poppins";
   color: #fff;
   margin: 0;
@@ -29,6 +29,11 @@ section.hello {
   background-position: center;
 }
 
+section.profile {
+  display: flex;
+  justify-content: center;
+}
+
 .name {
   font-weight: bold;
   color: #fad02c;
@@ -54,4 +59,14 @@ section.hello {
   background-color: black;
   padding: 20px;
   text-align: center;
+}
+
+.profile-picture {
+  border-radius: 100%;
+}
+
+.profile-intro {
+  background: hsl(0, 0%, 20%);
+  padding: 1rem;
+  max-width: 600px;
 }
