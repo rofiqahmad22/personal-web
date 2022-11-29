@@ -24,6 +24,9 @@ section.hello {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-image: url("https://picsum.photos/id/23/2000/800");
+  background-size: cover;
+  background-position: center;
 }
 
 .name {
