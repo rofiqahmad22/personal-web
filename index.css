@@ -2,6 +2,7 @@ body {
   background-color: #333652;
   font-family: "Poppins";
   color: #fff;
+  margin: 0;
 }
 
 a {
@@ -13,7 +14,19 @@ ul {
   list-style: none;
 }
 
-.nama {
+section {
+  padding: 1rem;
+}
+
+section.hello {
+  background: black;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.name {
   font-weight: bold;
   color: #fad02c;
 }
