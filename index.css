@@ -24,7 +24,7 @@ section.hello {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url("https://picsum.photos/id/23/2000/800");
+  background-image: url("img/3d-space-scene.jpg");
   background-size: cover;
   background-position: center;
 }
