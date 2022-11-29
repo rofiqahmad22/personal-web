@@ -1,8 +1,12 @@
-# Create Personal Website
+# Rofiq Ahmad Mubarok Personal Website
 
-content of personal website is:
+This is Rofiq's website. Live at <https://rofiqahmad.vercel.app>
 
-- main page
-- profil
-- tools
-- project
+Contains:
+
+- Main Page
+- Profile
+- Tools
+- Project
+
+Figma design: <https://figma.com/???>
