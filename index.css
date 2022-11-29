@@ -1,16 +1,16 @@
 body {
-  background-color: gray;
+  background-color: #333652;
   font-family: "Poppins";
 }
 
 .nama {
   font-weight: bold;
-  color: #ffbc0d;
+  color: #fad02c;
 }
 
 .text-contact {
   font-weight: bold;
-  color: #ffbc0d;
+  color: #fad02c;
 }
 
 .menu {
@@ -19,6 +19,10 @@ body {
   margin-right: 60px;
   color: white;
   justify-content: space-between;
+}
+
+.logo {
+  margin-right: 200px;
 }
 
 .nav-search {
