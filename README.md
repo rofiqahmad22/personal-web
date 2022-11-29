@@ -9,4 +9,8 @@ Contains:
 - Tools
 - Project
 
-Figma design: <https://figma.com/???>
+Design:
+
+- Concept: galaxy or astronaut
+- Reference: <https://jevelin.shufflehound.com/digital-media-agency>
+- Personal Website UI : <https://figma.com/file/iOoYSzvhqv5l0MdzYBao1H/Personal-Website?node-id=0%3A1&t=eaqcmmHfJxQrESAY-1>
