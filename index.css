@@ -66,6 +66,20 @@ section.profile {
   max-width: 600px;
 }
 
+.tools {
+  margin-top: 200px;
+}
+
+.tool-items {
+  width: 100px;
+  height: 100px;
+  margin: 60px;
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  flex: wrap;
+}
+
 .copyright {
   background-color: #393e46;
   padding: 20px;
