@@ -66,13 +66,14 @@ section.profile {
   max-width: 600px;
 }
 
-.tools {
+section.tools {
   margin-top: 200px;
+  width: 50px;
 }
 
 .tool-items {
-  width: 100px;
-  height: 100px;
+  width: 50px;
+  height: 50px;
   margin: 60px;
   display: flex;
   flex-direction: row;
@@ -80,8 +81,27 @@ section.profile {
   flex: wrap;
 }
 
+section.contact {
+  margin-top: 200px;
+  width: 500px;
+  height: 500px;
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  border: 2px solid #000;
+  padding-right: 850px;
+  justify-content: center;
+}
+
+.social-media {
+  width: 50px;
+  height: 50px;
+  margin: 60px;
+}
+
 .copyright {
   background-color: #393e46;
   padding: 20px;
   text-align: center;
+  margin: 0;
 }
